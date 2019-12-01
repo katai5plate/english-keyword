@@ -1,0 +1,44 @@
+{
+  "name": "english-keyword",
+  "description": "英語独学用に接頭辞・語根・接尾辞を組み合わせられるやつを作る",
+  "version": "1.0.0",
+  "main": "bs-config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katai5plate/english-keyword.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katai5plate/english-keyword/issues"
+  },
+  "homepage": "https://github.com/katai5plate/english-keyword#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.7.1",
+    "mykit-ts": "github:katai5plate/mykit-ts",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "start": "run-p watch serve",
+    "build": "rimraf ./dist && webpack",
+    "watch": "rimraf ./dist && webpack -w",
+    "serve": "browser-sync start --config ./bs-config.js"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.13",
+    "@types/react-dom": "^16.9.4",
+    "browser-sync": "^2.26.7",
+    "css-loader": "^3.2.0",
+    "file-loader": "^5.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.0",
+    "style-loader": "^1.0.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.2",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}

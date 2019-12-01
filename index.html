@@ -1,0 +1,17 @@
+<p>Redirect...</p>
+<script>
+  const dist = "dist";
+  window._redirect = () => (location.href = `./${dist}/index.html`);
+  window._fn = () => {
+    setTimeout(() => {
+      fetch(`/${dist}/`).then(x => {
+        if (x.ok) {
+          setTimeout(window._redirect, 1000);
+          return;
+        }
+        window._fn();
+      });
+    }, 1000);
+  };
+  window._fn();
+</script>

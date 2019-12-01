@@ -1,0 +1,1902 @@
+[
+  {
+    "spel": ["-able", "-ible"],
+    "mean": ["できる", "しうる"],
+    "url": "http://gogengo.me/roots/86"
+  },
+  {
+    "spel": ["-age"],
+    "mean": ["こと"],
+    "url": "http://gogengo.me/roots/414"
+  },
+  {
+    "spel": ["-al"],
+    "mean": ["性質"],
+    "url": "http://gogengo.me/roots/334"
+  },
+  {
+    "spel": ["-ance", "-ence"],
+    "mean": ["もの", "こと"],
+    "url": "http://gogengo.me/roots/330"
+  },
+  {
+    "spel": ["-ar"],
+    "mean": ["のような"],
+    "url": "http://gogengo.me/roots/393"
+  },
+  {
+    "spel": ["-ary"],
+    "mean": ["もの"],
+    "url": "http://gogengo.me/roots/471"
+  },
+  {
+    "spel": ["-ate"],
+    "mean": ["する"],
+    "url": "http://gogengo.me/roots/356"
+  },
+  {
+    "spel": ["-ation"],
+    "mean": ["すること"],
+    "url": "http://gogengo.me/roots/546"
+  },
+  {
+    "spel": ["-cracy"],
+    "mean": ["統治"],
+    "url": "http://gogengo.me/roots/536"
+  },
+  {
+    "spel": ["-ed"],
+    "mean": ["性質"],
+    "url": "http://gogengo.me/roots/305"
+  },
+  {
+    "spel": ["-ee"],
+    "mean": ["人"],
+    "url": "http://gogengo.me/roots/345"
+  },
+  {
+    "spel": ["-en"],
+    "mean": ["する"],
+    "url": "http://gogengo.me/roots/400"
+  },
+  {
+    "spel": ["-ent", "-ant"],
+    "mean": ["人", "もの", "性質"],
+    "url": "http://gogengo.me/roots/368"
+  },
+  {
+    "spel": ["-ful"],
+    "mean": ["満たされている性質"],
+    "url": "http://gogengo.me/roots/412"
+  },
+  {
+    "spel": ["-graphy"],
+    "mean": ["書かれたもの"],
+    "url": "http://gogengo.me/roots/446"
+  },
+  {
+    "spel": ["-hedron"],
+    "mean": ["面体"],
+    "url": "http://gogengo.me/roots/277"
+  },
+  {
+    "spel": ["-ic"],
+    "mean": ["性質"],
+    "url": "http://gogengo.me/roots/349"
+  },
+  {
+    "spel": ["-ice", "-se"],
+    "mean": ["こと"],
+    "url": "http://gogengo.me/roots/365"
+  },
+  {
+    "spel": ["-ics"],
+    "mean": ["学問"],
+    "url": "http://gogengo.me/roots/480"
+  },
+  {
+    "spel": ["-ify"],
+    "mean": ["する"],
+    "url": "http://gogengo.me/roots/362"
+  },
+  {
+    "spel": ["-ine", "-in"],
+    "mean": ["化学物質"],
+    "url": "http://gogengo.me/roots/432"
+  },
+  {
+    "spel": ["-ing"],
+    "mean": ["こと", "もの"],
+    "url": "http://gogengo.me/roots/378"
+  },
+  {
+    "spel": ["-ion", "-tion"],
+    "mean": ["こと", "もの"],
+    "url": "http://gogengo.me/roots/232"
+  },
+  {
+    "spel": ["-ism"],
+    "mean": ["主義", "主張"],
+    "url": "http://gogengo.me/roots/333"
+  },
+  {
+    "spel": ["-ist"],
+    "mean": ["専門家", "主義者", "人"],
+    "url": "http://gogengo.me/roots/292"
+  },
+  {
+    "spel": ["-ity"],
+    "mean": ["こと"],
+    "url": "http://gogengo.me/roots/353"
+  },
+  {
+    "spel": ["-ium"],
+    "mean": ["物質"],
+    "url": "http://gogengo.me/roots/359"
+  },
+  {
+    "spel": ["-ive"],
+    "mean": ["性質"],
+    "url": "http://gogengo.me/roots/245"
+  },
+  {
+    "spel": ["-ize", "-ise"],
+    "mean": ["する"],
+    "url": "http://gogengo.me/roots/320"
+  },
+  {
+    "spel": ["-less"],
+    "mean": ["〜がない"],
+    "url": "http://gogengo.me/roots/486"
+  },
+  {
+    "spel": ["-logy"],
+    "mean": ["学問"],
+    "url": "http://gogengo.me/roots/190"
+  },
+  {
+    "spel": ["-ly"],
+    "mean": ["のような", "ごとの"],
+    "url": "http://gogengo.me/roots/342"
+  },
+  {
+    "spel": ["-ment"],
+    "mean": ["こと"],
+    "url": "http://gogengo.me/roots/338"
+  },
+  {
+    "spel": ["-ness"],
+    "mean": ["こと"],
+    "url": "http://gogengo.me/roots/409"
+  },
+  {
+    "spel": ["-or", "-er"],
+    "mean": ["人", "もの"],
+    "url": "http://gogengo.me/roots/261"
+  },
+  {
+    "spel": ["-ory"],
+    "mean": ["場所"],
+    "url": "http://gogengo.me/roots/347"
+  },
+  {
+    "spel": ["-osis"],
+    "mean": ["病気"],
+    "url": "http://gogengo.me/roots/209"
+  },
+  {
+    "spel": ["-ous"],
+    "mean": ["性質"],
+    "url": "http://gogengo.me/roots/390"
+  },
+  {
+    "spel": ["-pathy"],
+    "mean": ["感情"],
+    "url": "http://gogengo.me/roots/219"
+  },
+  {
+    "spel": ["-phile", "-phila"],
+    "mean": ["愛する"],
+    "url": "http://gogengo.me/roots/294"
+  },
+  {
+    "spel": ["-phobia"],
+    "mean": ["恐怖症"],
+    "url": "http://gogengo.me/roots/120"
+  },
+  {
+    "spel": ["-scope"],
+    "mean": ["見るもの"],
+    "url": "http://gogengo.me/roots/205"
+  },
+  {
+    "spel": ["-ture", "-ure"],
+    "mean": ["こと"],
+    "url": "http://gogengo.me/roots/350"
+  },
+  {
+    "spel": ["-y", "-cy"],
+    "mean": ["こと"],
+    "url": "http://gogengo.me/roots/361"
+  },
+  {
+    "spel": ["a-"],
+    "mean": ["否定"],
+    "url": "http://gogengo.me/roots/259"
+  },
+  {
+    "spel": ["ab-"],
+    "mean": ["離れた"],
+    "url": "http://gogengo.me/roots/57"
+  },
+  {
+    "spel": ["acro-"],
+    "mean": ["高い"],
+    "url": "http://gogengo.me/roots/185"
+  },
+  {
+    "spel": ["act"],
+    "mean": ["行為"],
+    "url": "http://gogengo.me/roots/231"
+  },
+  {
+    "spel": ["ad-", "at-", "ap-", "af-", "as-", "ag-", "ac-", "an-", "a-"],
+    "mean": ["その方向へ", "付加"],
+    "url": "http://gogengo.me/roots/160"
+  },
+  {
+    "spel": ["alb"],
+    "mean": ["白"],
+    "url": "http://gogengo.me/roots/425"
+  },
+  {
+    "spel": ["ali", "alter", "el"],
+    "mean": ["別"],
+    "url": "http://gogengo.me/roots/433"
+  },
+  {
+    "spel": ["alt"],
+    "mean": ["高い"],
+    "url": "http://gogengo.me/roots/440"
+  },
+  {
+    "spel": ["ambi-", "be-"],
+    "mean": ["周囲の", "歩く", "あらゆる"],
+    "url": "http://gogengo.me/roots/283"
+  },
+  {
+    "spel": ["ammonia", "Ammon"],
+    "mean": ["アメン神殿", "アンモニア"],
+    "url": "http://gogengo.me/roots/439"
+  },
+  {
+    "spel": ["ana-"],
+    "mean": ["上げる", "戻す"],
+    "url": "http://gogengo.me/roots/520"
+  },
+  {
+    "spel": ["angle"],
+    "mean": ["カド"],
+    "url": "http://gogengo.me/roots/504"
+  },
+  {
+    "spel": ["anima", "anemo"],
+    "mean": ["魂", "命", "風"],
+    "url": "http://gogengo.me/roots/332"
+  },
+  {
+    "spel": ["annu"],
+    "mean": ["年"],
+    "url": "http://gogengo.me/roots/268"
+  },
+  {
+    "spel": ["ante"],
+    "mean": ["前に"],
+    "url": "http://gogengo.me/roots/472"
+  },
+  {
+    "spel": ["anti-"],
+    "mean": ["反する"],
+    "url": "http://gogengo.me/roots/258"
+  },
+  {
+    "spel": ["aria"],
+    "mean": ["空気"],
+    "url": "http://gogengo.me/roots/495"
+  },
+  {
+    "spel": ["arm"],
+    "mean": ["組み合わせる", "武器", "腕"],
+    "url": "http://gogengo.me/roots/109"
+  },
+  {
+    "spel": ["aster", "astro"],
+    "mean": ["星"],
+    "url": "http://gogengo.me/roots/110"
+  },
+  {
+    "spel": ["athlon"],
+    "mean": ["競技"],
+    "url": "http://gogengo.me/roots/59"
+  },
+  {
+    "spel": ["auc", "auth"],
+    "mean": ["増やす"],
+    "url": "http://gogengo.me/roots/304"
+  },
+  {
+    "spel": ["audio", "aud", "edi", "ey"],
+    "mean": ["聞く", "音声の", "聴覚の"],
+    "url": "http://gogengo.me/roots/291"
+  },
+  {
+    "spel": ["auto-"],
+    "mean": ["自身"],
+    "url": "http://gogengo.me/roots/537"
+  },
+  {
+    "spel": ["bai"],
+    "mean": ["行く"],
+    "url": "http://gogengo.me/roots/490"
+  },
+  {
+    "spel": ["bat"],
+    "mean": ["たたく"],
+    "url": "http://gogengo.me/roots/445"
+  },
+  {
+    "spel": ["bed"],
+    "mean": ["眠る場所"],
+    "url": "http://gogengo.me/roots/241"
+  },
+  {
+    "spel": ["bene-", "bon-"],
+    "mean": ["よい"],
+    "url": "http://gogengo.me/roots/315"
+  },
+  {
+    "spel": ["bet"],
+    "mean": ["餌", "餌をやる"],
+    "url": "http://gogengo.me/roots/479"
+  },
+  {
+    "spel": ["bi-"],
+    "mean": ["2 つの"],
+    "url": "http://gogengo.me/roots/30"
+  },
+  {
+    "spel": ["biblio"],
+    "mean": ["本"],
+    "url": "http://gogengo.me/roots/437"
+  },
+  {
+    "spel": ["bio", "bium"],
+    "mean": ["命"],
+    "url": "http://gogengo.me/roots/506"
+  },
+  {
+    "spel": ["bole"],
+    "mean": ["投げること"],
+    "url": "http://gogengo.me/roots/534"
+  },
+  {
+    "spel": ["book"],
+    "mean": ["書き残す", "本", "予約"],
+    "url": "http://gogengo.me/roots/477"
+  },
+  {
+    "spel": ["bredan"],
+    "mean": ["生み出す"],
+    "url": "http://gogengo.me/roots/234"
+  },
+  {
+    "spel": ["busi"],
+    "mean": ["勤める"],
+    "url": "http://gogengo.me/roots/73"
+  },
+  {
+    "spel": ["by"],
+    "mean": ["わきの", "副次的な"],
+    "url": "http://gogengo.me/roots/72"
+  },
+  {
+    "spel": ["cadentia", "chance"],
+    "mean": ["サイコロを振る", "運"],
+    "url": "http://gogengo.me/roots/175"
+  },
+  {
+    "spel": ["calare"],
+    "mean": ["呼ぶ", "叫ぶ"],
+    "url": "http://gogengo.me/roots/444"
+  },
+  {
+    "spel": ["calc"],
+    "mean": ["石", "石灰"],
+    "url": "http://gogengo.me/roots/358"
+  },
+  {
+    "spel": ["cand"],
+    "mean": ["白"],
+    "url": "http://gogengo.me/roots/426"
+  },
+  {
+    "spel": ["cap"],
+    "mean": ["頭"],
+    "url": "http://gogengo.me/roots/450"
+  },
+  {
+    "spel": ["card", "carta"],
+    "mean": ["紙", "手札"],
+    "url": "http://gogengo.me/roots/111"
+  },
+  {
+    "spel": ["causa"],
+    "mean": ["原因"],
+    "url": "http://gogengo.me/roots/424"
+  },
+  {
+    "spel": ["cede", "ceed", "cess"],
+    "mean": ["進む"],
+    "url": "http://gogengo.me/roots/371"
+  },
+  {
+    "spel": ["cel", "celer"],
+    "mean": ["上げる"],
+    "url": "http://gogengo.me/roots/382"
+  },
+  {
+    "spel": ["cell", "ceal"],
+    "mean": ["隠す"],
+    "url": "http://gogengo.me/roots/379"
+  },
+  {
+    "spel": ["center"],
+    "mean": ["中央"],
+    "url": "http://gogengo.me/roots/492"
+  },
+  {
+    "spel": ["centi", "cent"],
+    "mean": ["100", "100 分の 1"],
+    "url": "http://gogengo.me/roots/285"
+  },
+  {
+    "spel": ["cept", "cip", "cap", "ceive", "cup", "chase"],
+    "mean": ["つかみ取る"],
+    "url": "http://gogengo.me/roots/328"
+  },
+  {
+    "spel": ["change", "cambire"],
+    "mean": ["変える"],
+    "url": "http://gogengo.me/roots/235"
+  },
+  {
+    "spel": ["charge", "car"],
+    "mean": ["台車", "積む", "満たす"],
+    "url": "http://gogengo.me/roots/69"
+  },
+  {
+    "spel": ["chol"],
+    "mean": ["胆汁"],
+    "url": "http://gogengo.me/roots/428"
+  },
+  {
+    "spel": ["chrono"],
+    "mean": ["時の"],
+    "url": "http://gogengo.me/roots/189"
+  },
+  {
+    "spel": ["circu", "circle", "circum", "cycle"],
+    "mean": ["輪", "周囲"],
+    "url": "http://gogengo.me/roots/407"
+  },
+  {
+    "spel": ["cis", "cid"],
+    "mean": ["切る"],
+    "url": "http://gogengo.me/roots/467"
+  },
+  {
+    "spel": ["civis"],
+    "mean": ["町民"],
+    "url": "http://gogengo.me/roots/543"
+  },
+  {
+    "spel": ["clin"],
+    "mean": ["寄りかかる", "病院"],
+    "url": "http://gogengo.me/roots/300"
+  },
+  {
+    "spel": ["clude"],
+    "mean": ["閉じる"],
+    "url": "http://gogengo.me/roots/37"
+  },
+  {
+    "spel": ["code"],
+    "mean": ["符号", "法典"],
+    "url": "http://gogengo.me/roots/89"
+  },
+  {
+    "spel": ["cogni"],
+    "mean": ["知る"],
+    "url": "http://gogengo.me/roots/473"
+  },
+  {
+    "spel": ["com-", "con-", "co-"],
+    "mean": ["共に", "強意"],
+    "url": "http://gogengo.me/roots/33"
+  },
+  {
+    "spel": ["contra-", "contro-"],
+    "mean": ["反対に"],
+    "url": "http://gogengo.me/roots/478"
+  },
+  {
+    "spel": ["cor"],
+    "mean": ["心"],
+    "url": "http://gogengo.me/roots/455"
+  },
+  {
+    "spel": ["crease"],
+    "mean": ["増える", "成長する"],
+    "url": "http://gogengo.me/roots/282"
+  },
+  {
+    "spel": ["cred"],
+    "mean": ["信じる"],
+    "url": "http://gogengo.me/roots/452"
+  },
+  {
+    "spel": ["cult", "cole"],
+    "mean": ["耕す", "住む"],
+    "url": "http://gogengo.me/roots/402"
+  },
+  {
+    "spel": ["cur", "cour"],
+    "mean": ["走る"],
+    "url": "http://gogengo.me/roots/364"
+  },
+  {
+    "spel": ["cure"],
+    "mean": ["手入れ", "気遣い"],
+    "url": "http://gogengo.me/roots/301"
+  },
+  {
+    "spel": ["cutte"],
+    "mean": ["切る"],
+    "url": "http://gogengo.me/roots/525"
+  },
+  {
+    "spel": ["day"],
+    "mean": ["日にち"],
+    "url": "http://gogengo.me/roots/225"
+  },
+  {
+    "spel": ["de-"],
+    "mean": ["離れる", "下へ", "否定", "徹底的に", "強意"],
+    "url": "http://gogengo.me/roots/162"
+  },
+  {
+    "spel": ["deca-", "deci-"],
+    "mean": ["10 の"],
+    "url": "http://gogengo.me/roots/60"
+  },
+  {
+    "spel": ["dem"],
+    "mean": ["人々"],
+    "url": "http://gogengo.me/roots/373"
+  },
+  {
+    "spel": ["demi-"],
+    "mean": ["半分の"],
+    "url": "http://gogengo.me/roots/263"
+  },
+  {
+    "spel": ["dendro-"],
+    "mean": ["樹木の"],
+    "url": "http://gogengo.me/roots/191"
+  },
+  {
+    "spel": ["dent"],
+    "mean": ["歯"],
+    "url": "http://gogengo.me/roots/303"
+  },
+  {
+    "spel": ["derma"],
+    "mean": ["真皮"],
+    "url": "http://gogengo.me/roots/165"
+  },
+  {
+    "spel": ["dia-"],
+    "mean": ["横切って"],
+    "url": "http://gogengo.me/roots/318"
+  },
+  {
+    "spel": ["dict"],
+    "mean": ["話す"],
+    "url": "http://gogengo.me/roots/470"
+  },
+  {
+    "spel": ["dis-", "di-"],
+    "mean": ["否定", "離れて", "強意"],
+    "url": "http://gogengo.me/roots/104"
+  },
+  {
+    "spel": ["dodeca-"],
+    "mean": ["12 の"],
+    "url": "http://gogengo.me/roots/62"
+  },
+  {
+    "spel": ["dom", "dan"],
+    "mean": ["家", "領域", "支配"],
+    "url": "http://gogengo.me/roots/465"
+  },
+  {
+    "spel": ["don", "dit", "dat"],
+    "mean": ["与える"],
+    "url": "http://gogengo.me/roots/410"
+  },
+  {
+    "spel": ["doxa"],
+    "mean": ["意見"],
+    "url": "http://gogengo.me/roots/532"
+  },
+  {
+    "spel": ["duce", "duct"],
+    "mean": ["導く"],
+    "url": "http://gogengo.me/roots/50"
+  },
+  {
+    "spel": ["duo", "dup"],
+    "mean": ["2 つ"],
+    "url": "http://gogengo.me/roots/511"
+  },
+  {
+    "spel": ["ego"],
+    "mean": ["自分"],
+    "url": "http://gogengo.me/roots/431"
+  },
+  {
+    "spel": ["electr"],
+    "mean": ["電気", "琥珀"],
+    "url": "http://gogengo.me/roots/415"
+  },
+  {
+    "spel": ["ennea-"],
+    "mean": ["9 つの"],
+    "url": "http://gogengo.me/roots/63"
+  },
+  {
+    "spel": ["epi-"],
+    "mean": ["上の", "間の"],
+    "url": "http://gogengo.me/roots/163"
+  },
+  {
+    "spel": ["equal", "equi"],
+    "mean": ["等しい"],
+    "url": "http://gogengo.me/roots/499"
+  },
+  {
+    "spel": ["ess", "sent", "est"],
+    "mean": ["存在する"],
+    "url": "http://gogengo.me/roots/462"
+  },
+  {
+    "spel": ["ethn"],
+    "mean": ["民族"],
+    "url": "http://gogengo.me/roots/348"
+  },
+  {
+    "spel": ["etymo"],
+    "mean": ["本当"],
+    "url": "http://gogengo.me/roots/375"
+  },
+  {
+    "spel": ["ex-", "ef-", "e-"],
+    "mean": ["外へ"],
+    "url": "http://gogengo.me/roots/35"
+  },
+  {
+    "spel": ["fail", "fault", "false"],
+    "mean": ["誤り"],
+    "url": "http://gogengo.me/roots/357"
+  },
+  {
+    "spel": ["fare"],
+    "mean": ["旅"],
+    "url": "http://gogengo.me/roots/386"
+  },
+  {
+    "spel": ["fer", "fort"],
+    "mean": ["運ぶ"],
+    "url": "http://gogengo.me/roots/233"
+  },
+  {
+    "spel": ["fess"],
+    "mean": ["言う"],
+    "url": "http://gogengo.me/roots/405"
+  },
+  {
+    "spel": ["fic", "fact", "fect", "feat", "fig", "fy", "face"],
+    "mean": ["つくる", "する", "面"],
+    "url": "http://gogengo.me/roots/346"
+  },
+  {
+    "spel": ["fili"],
+    "mean": ["子ども"],
+    "url": "http://gogengo.me/roots/494"
+  },
+  {
+    "spel": ["fin"],
+    "mean": ["終わる", "境界を定める"],
+    "url": "http://gogengo.me/roots/335"
+  },
+  {
+    "spel": ["fix"],
+    "mean": ["固定する"],
+    "url": "http://gogengo.me/roots/211"
+  },
+  {
+    "spel": ["flame"],
+    "mean": ["炎"],
+    "url": "http://gogengo.me/roots/244"
+  },
+  {
+    "spel": ["flict"],
+    "mean": ["ぶつける"],
+    "url": "http://gogengo.me/roots/421"
+  },
+  {
+    "spel": ["flow", "flood", "flu"],
+    "mean": ["流れ"],
+    "url": "http://gogengo.me/roots/370"
+  },
+  {
+    "spel": ["foris"],
+    "mean": ["外側", "森林"],
+    "url": "http://gogengo.me/roots/186"
+  },
+  {
+    "spel": ["form", "forma"],
+    "mean": ["形"],
+    "url": "http://gogengo.me/roots/144"
+  },
+  {
+    "spel": ["fort", "firm"],
+    "mean": ["強い", "かたい"],
+    "url": "http://gogengo.me/roots/419"
+  },
+  {
+    "spel": ["fund"],
+    "mean": ["基礎を置く", "底"],
+    "url": "http://gogengo.me/roots/519"
+  },
+  {
+    "spel": ["gen", "gene", "gn"],
+    "mean": ["生む", "種類"],
+    "url": "http://gogengo.me/roots/118"
+  },
+  {
+    "spel": ["god"],
+    "mean": ["呼ぶ"],
+    "url": "http://gogengo.me/roots/264"
+  },
+  {
+    "spel": ["gon"],
+    "mean": ["カド"],
+    "url": "http://gogengo.me/roots/61"
+  },
+  {
+    "spel": ["grace", "grate", "gree"],
+    "mean": ["喜び", "慈悲深さ"],
+    "url": "http://gogengo.me/roots/411"
+  },
+  {
+    "spel": ["graph", "gram"],
+    "mean": ["書く", "書かれたもの"],
+    "url": "http://gogengo.me/roots/135"
+  },
+  {
+    "spel": ["grav", "gri"],
+    "mean": ["重い"],
+    "url": "http://gogengo.me/roots/457"
+  },
+  {
+    "spel": ["gregate"],
+    "mean": ["集まり", "群れ"],
+    "url": "http://gogengo.me/roots/319"
+  },
+  {
+    "spel": ["gress", "grad"],
+    "mean": ["歩く", "段階"],
+    "url": "http://gogengo.me/roots/51"
+  },
+  {
+    "spel": ["group"],
+    "mean": ["結び目", "集まり"],
+    "url": "http://gogengo.me/roots/253"
+  },
+  {
+    "spel": ["habit", "hibit"],
+    "mean": ["保つ"],
+    "url": "http://gogengo.me/roots/321"
+  },
+  {
+    "spel": ["happ"],
+    "mean": ["機会"],
+    "url": "http://gogengo.me/roots/142"
+  },
+  {
+    "spel": ["hard"],
+    "mean": ["かたい"],
+    "url": "http://gogengo.me/roots/517"
+  },
+  {
+    "spel": ["head", "kaput"],
+    "mean": ["頭"],
+    "url": "http://gogengo.me/roots/254"
+  },
+  {
+    "spel": ["hemi-"],
+    "mean": ["半分の"],
+    "url": "http://gogengo.me/roots/265"
+  },
+  {
+    "spel": ["hepta-"],
+    "mean": ["7 つの"],
+    "url": "http://gogengo.me/roots/64"
+  },
+  {
+    "spel": ["her", "herit"],
+    "mean": ["受け継ぐ"],
+    "url": "http://gogengo.me/roots/413"
+  },
+  {
+    "spel": ["her", "hes"],
+    "mean": ["粘着する"],
+    "url": "http://gogengo.me/roots/308"
+  },
+  {
+    "spel": ["hexa-"],
+    "mean": ["6 つの"],
+    "url": "http://gogengo.me/roots/65"
+  },
+  {
+    "spel": ["hippos"],
+    "mean": ["馬"],
+    "url": "http://gogengo.me/roots/541"
+  },
+  {
+    "spel": ["historia", "storia"],
+    "mean": ["歴史", "階"],
+    "url": "http://gogengo.me/roots/126"
+  },
+  {
+    "spel": ["horr"],
+    "mean": ["ぞっとする"],
+    "url": "http://gogengo.me/roots/507"
+  },
+  {
+    "spel": ["host", "hosp"],
+    "mean": ["見知らぬ人", "客"],
+    "url": "http://gogengo.me/roots/491"
+  },
+  {
+    "spel": ["hydro-"],
+    "mean": ["水の"],
+    "url": "http://gogengo.me/roots/116"
+  },
+  {
+    "spel": ["ieg", "isol"],
+    "mean": ["水に囲まれたもの", "島"],
+    "url": "http://gogengo.me/roots/355"
+  },
+  {
+    "spel": ["igni"],
+    "mean": ["火"],
+    "url": "http://gogengo.me/roots/385"
+  },
+  {
+    "spel": ["in-", "im-"],
+    "mean": ["否定"],
+    "url": "http://gogengo.me/roots/366"
+  },
+  {
+    "spel": ["in-", "im-", "en-", "em-"],
+    "mean": ["中へ", "上に", "その方向へ", "その状態にする"],
+    "url": "http://gogengo.me/roots/47"
+  },
+  {
+    "spel": ["inter-", "enter-"],
+    "mean": ["間の"],
+    "url": "http://gogengo.me/roots/39"
+  },
+  {
+    "spel": ["it"],
+    "mean": ["行く"],
+    "url": "http://gogengo.me/roots/395"
+  },
+  {
+    "spel": ["ject"],
+    "mean": ["投げる"],
+    "url": "http://gogengo.me/roots/236"
+  },
+  {
+    "spel": ["joie"],
+    "mean": ["喜び"],
+    "url": "http://gogengo.me/roots/96"
+  },
+  {
+    "spel": ["join"],
+    "mean": ["繋げる"],
+    "url": "http://gogengo.me/roots/306"
+  },
+  {
+    "spel": ["jour"],
+    "mean": ["日"],
+    "url": "http://gogengo.me/roots/547"
+  },
+  {
+    "spel": ["just", "jure"],
+    "mean": ["ただしさ", "法律", "ちょうど"],
+    "url": "http://gogengo.me/roots/360"
+  },
+  {
+    "spel": ["kinetos"],
+    "mean": ["運動"],
+    "url": "http://gogengo.me/roots/213"
+  },
+  {
+    "spel": ["know", "gno"],
+    "mean": ["知る"],
+    "url": "http://gogengo.me/roots/363"
+  },
+  {
+    "spel": ["kwo", "quo"],
+    "mean": ["どれほどの"],
+    "url": "http://gogengo.me/roots/514"
+  },
+  {
+    "spel": ["lab"],
+    "mean": ["働く"],
+    "url": "http://gogengo.me/roots/466"
+  },
+  {
+    "spel": ["laryng"],
+    "mean": ["喉頭 (こうとう)"],
+    "url": "http://gogengo.me/roots/204"
+  },
+  {
+    "spel": ["lat"],
+    "mean": ["運ぶ"],
+    "url": "http://gogengo.me/roots/403"
+  },
+  {
+    "spel": ["latus"],
+    "mean": ["生む"],
+    "url": "http://gogengo.me/roots/372"
+  },
+  {
+    "spel": ["laud"],
+    "mean": ["称える"],
+    "url": "http://gogengo.me/roots/195"
+  },
+  {
+    "spel": ["lend"],
+    "mean": ["土地"],
+    "url": "http://gogengo.me/roots/354"
+  },
+  {
+    "spel": ["lex"],
+    "mean": ["法"],
+    "url": "http://gogengo.me/roots/535"
+  },
+  {
+    "spel": ["liber"],
+    "mean": ["自由"],
+    "url": "http://gogengo.me/roots/542"
+  },
+  {
+    "spel": ["like"],
+    "mean": ["体質に合う", "好き", "似ている"],
+    "url": "http://gogengo.me/roots/198"
+  },
+  {
+    "spel": ["linea"],
+    "mean": ["リネン", "線"],
+    "url": "http://gogengo.me/roots/237"
+  },
+  {
+    "spel": ["lingua"],
+    "mean": ["舌", "言葉"],
+    "url": "http://gogengo.me/roots/418"
+  },
+  {
+    "spel": ["lith"],
+    "mean": ["岩"],
+    "url": "http://gogengo.me/roots/489"
+  },
+  {
+    "spel": ["logo-"],
+    "mean": ["言語の"],
+    "url": "http://gogengo.me/roots/297"
+  },
+  {
+    "spel": ["logue"],
+    "mean": ["談話"],
+    "url": "http://gogengo.me/roots/52"
+  },
+  {
+    "spel": ["long"],
+    "mean": ["長い"],
+    "url": "http://gogengo.me/roots/53"
+  },
+  {
+    "spel": ["loqu", "locu"],
+    "mean": ["力強く話す"],
+    "url": "http://gogengo.me/roots/454"
+  },
+  {
+    "spel": ["lve", "lut", "lue", "lye"],
+    "mean": ["ほどく"],
+    "url": "http://gogengo.me/roots/406"
+  },
+  {
+    "spel": ["macro-"],
+    "mean": ["大きな", "長い"],
+    "url": "http://gogengo.me/roots/505"
+  },
+  {
+    "spel": ["mal-"],
+    "mean": ["悪い"],
+    "url": "http://gogengo.me/roots/311"
+  },
+  {
+    "spel": ["man"],
+    "mean": ["人"],
+    "url": "http://gogengo.me/roots/438"
+  },
+  {
+    "spel": ["mani", "main", "man", "manu"],
+    "mean": ["手"],
+    "url": "http://gogengo.me/roots/302"
+  },
+  {
+    "spel": ["marine", "marinus"],
+    "mean": ["海の"],
+    "url": "http://gogengo.me/roots/246"
+  },
+  {
+    "spel": ["mark", "merg"],
+    "mean": ["境界", "印"],
+    "url": "http://gogengo.me/roots/513"
+  },
+  {
+    "spel": ["mega-"],
+    "mean": ["大きな"],
+    "url": "http://gogengo.me/roots/206"
+  },
+  {
+    "spel": ["melan"],
+    "mean": ["黒"],
+    "url": "http://gogengo.me/roots/427"
+  },
+  {
+    "spel": ["memor"],
+    "mean": ["心に留める"],
+    "url": "http://gogengo.me/roots/544"
+  },
+  {
+    "spel": ["ment", "man"],
+    "mean": ["考える"],
+    "url": "http://gogengo.me/roots/545"
+  },
+  {
+    "spel": ["meso-", "mid-"],
+    "mean": ["中間"],
+    "url": "http://gogengo.me/roots/539"
+  },
+  {
+    "spel": ["meter", "metry"],
+    "mean": ["測る", "測定器", "メートル"],
+    "url": "http://gogengo.me/roots/119"
+  },
+  {
+    "spel": ["micro-"],
+    "mean": ["小さな"],
+    "url": "http://gogengo.me/roots/207"
+  },
+  {
+    "spel": ["migr", "mut", "mun", "mon"],
+    "mean": ["動く", "変わる"],
+    "url": "http://gogengo.me/roots/388"
+  },
+  {
+    "spel": ["milli-"],
+    "mean": ["千", "千分の一"],
+    "url": "http://gogengo.me/roots/290"
+  },
+  {
+    "spel": ["mis-"],
+    "mean": ["誤って", "悪い"],
+    "url": "http://gogengo.me/roots/171"
+  },
+  {
+    "spel": ["mit", "mess", "miss", "mise"],
+    "mean": ["送る"],
+    "url": "http://gogengo.me/roots/329"
+  },
+  {
+    "spel": ["mono-"],
+    "mean": ["単一の"],
+    "url": "http://gogengo.me/roots/134"
+  },
+  {
+    "spel": ["month", "mona"],
+    "mean": ["月"],
+    "url": "http://gogengo.me/roots/343"
+  },
+  {
+    "spel": ["morn"],
+    "mean": ["朝"],
+    "url": "http://gogengo.me/roots/281"
+  },
+  {
+    "spel": ["moros"],
+    "mean": ["ばか"],
+    "url": "http://gogengo.me/roots/327"
+  },
+  {
+    "spel": ["moun", "men"],
+    "mean": ["突き出る", "積み重ねる"],
+    "url": "http://gogengo.me/roots/508"
+  },
+  {
+    "spel": ["movere", "mov", "mot"],
+    "mean": ["動く"],
+    "url": "http://gogengo.me/roots/538"
+  },
+  {
+    "spel": ["multi-"],
+    "mean": ["多くの"],
+    "url": "http://gogengo.me/roots/124"
+  },
+  {
+    "spel": ["nat"],
+    "mean": ["生まれる"],
+    "url": "http://gogengo.me/roots/461"
+  },
+  {
+    "spel": ["nect", "nex"],
+    "mean": ["結びつける"],
+    "url": "http://gogengo.me/roots/307"
+  },
+  {
+    "spel": ["neuro", "neur", "nerv"],
+    "mean": ["神経"],
+    "url": "http://gogengo.me/roots/208"
+  },
+  {
+    "spel": ["night", "nekwt"],
+    "mean": ["夜"],
+    "url": "http://gogengo.me/roots/280"
+  },
+  {
+    "spel": ["nomen"],
+    "mean": ["名前"],
+    "url": "http://gogengo.me/roots/443"
+  },
+  {
+    "spel": ["non-", "ne-"],
+    "mean": ["否定"],
+    "url": "http://gogengo.me/roots/127"
+  },
+  {
+    "spel": ["norm"],
+    "mean": ["規格"],
+    "url": "http://gogengo.me/roots/396"
+  },
+  {
+    "spel": ["nounce"],
+    "mean": ["叫ぶ"],
+    "url": "http://gogengo.me/roots/509"
+  },
+  {
+    "spel": ["nov", "neo", "newo"],
+    "mean": ["新しい"],
+    "url": "http://gogengo.me/roots/458"
+  },
+  {
+    "spel": ["numer"],
+    "mean": ["数"],
+    "url": "http://gogengo.me/roots/501"
+  },
+  {
+    "spel": ["nur", "nutri", "nour"],
+    "mean": ["養う", "育てる"],
+    "url": "http://gogengo.me/roots/456"
+  },
+  {
+    "spel": ["nut"],
+    "mean": ["木の実", "核"],
+    "url": "http://gogengo.me/roots/130"
+  },
+  {
+    "spel": ["ob-", "oc-", "of-", "op-"],
+    "mean": ["その方向へ", "反対の"],
+    "url": "http://gogengo.me/roots/183"
+  },
+  {
+    "spel": ["octa-"],
+    "mean": ["8 つの"],
+    "url": "http://gogengo.me/roots/66"
+  },
+  {
+    "spel": ["omni-"],
+    "mean": ["すべて"],
+    "url": "http://gogengo.me/roots/485"
+  },
+  {
+    "spel": ["one", "oi-no"],
+    "mean": ["1 つ"],
+    "url": "http://gogengo.me/roots/528"
+  },
+  {
+    "spel": ["ope"],
+    "mean": ["はたらく", "最高"],
+    "url": "http://gogengo.me/roots/484"
+  },
+  {
+    "spel": ["opt"],
+    "mean": ["選ぶ"],
+    "url": "http://gogengo.me/roots/496"
+  },
+  {
+    "spel": ["ordi"],
+    "mean": ["整理"],
+    "url": "http://gogengo.me/roots/199"
+  },
+  {
+    "spel": ["ori"],
+    "mean": ["生まれる"],
+    "url": "http://gogengo.me/roots/482"
+  },
+  {
+    "spel": ["ortho-"],
+    "mean": ["まっすぐ", "ただしさ"],
+    "url": "http://gogengo.me/roots/531"
+  },
+  {
+    "spel": ["over-"],
+    "mean": ["上に", "過度に", "超えて"],
+    "url": "http://gogengo.me/roots/146"
+  },
+  {
+    "spel": ["oxy-"],
+    "mean": ["酸"],
+    "url": "http://gogengo.me/roots/389"
+  },
+  {
+    "spel": ["pan"],
+    "mean": ["パン"],
+    "url": "http://gogengo.me/roots/384"
+  },
+  {
+    "spel": ["pan-"],
+    "mean": ["すべて"],
+    "url": "http://gogengo.me/roots/524"
+  },
+  {
+    "spel": ["para-"],
+    "mean": ["反する", "近く"],
+    "url": "http://gogengo.me/roots/533"
+  },
+  {
+    "spel": ["part"],
+    "mean": ["部分"],
+    "url": "http://gogengo.me/roots/417"
+  },
+  {
+    "spel": ["pass"],
+    "mean": ["歩く"],
+    "url": "http://gogengo.me/roots/435"
+  },
+  {
+    "spel": ["pay", "paier"],
+    "mean": ["満足させる", "支払う"],
+    "url": "http://gogengo.me/roots/262"
+  },
+  {
+    "spel": ["pear"],
+    "mean": ["前に出る"],
+    "url": "http://gogengo.me/roots/107"
+  },
+  {
+    "spel": ["pede", "pod", "foot"],
+    "mean": ["足"],
+    "url": "http://gogengo.me/roots/287"
+  },
+  {
+    "spel": ["pend"],
+    "mean": ["ぶら下げる"],
+    "url": "http://gogengo.me/roots/377"
+  },
+  {
+    "spel": ["penta-", "pent-"],
+    "mean": ["5 つの"],
+    "url": "http://gogengo.me/roots/67"
+  },
+  {
+    "spel": ["per-", "par-"],
+    "mean": ["徹底的に"],
+    "url": "http://gogengo.me/roots/184"
+  },
+  {
+    "spel": ["peri-"],
+    "mean": ["周辺の"],
+    "url": "http://gogengo.me/roots/210"
+  },
+  {
+    "spel": ["philo-"],
+    "mean": ["愛"],
+    "url": "http://gogengo.me/roots/325"
+  },
+  {
+    "spel": ["phone"],
+    "mean": ["音"],
+    "url": "http://gogengo.me/roots/203"
+  },
+  {
+    "spel": ["photo-"],
+    "mean": ["光"],
+    "url": "http://gogengo.me/roots/137"
+  },
+  {
+    "spel": ["plane"],
+    "mean": ["平面"],
+    "url": "http://gogengo.me/roots/121"
+  },
+  {
+    "spel": ["ply", "ploy", "play", "plex"],
+    "mean": ["折る"],
+    "url": "http://gogengo.me/roots/187"
+  },
+  {
+    "spel": ["point", "pungere"],
+    "mean": ["穴を開ける", "指す"],
+    "url": "http://gogengo.me/roots/401"
+  },
+  {
+    "spel": ["polar", "polus"],
+    "mean": ["極の"],
+    "url": "http://gogengo.me/roots/158"
+  },
+  {
+    "spel": ["poly-"],
+    "mean": ["たくさんの"],
+    "url": "http://gogengo.me/roots/68"
+  },
+  {
+    "spel": ["popul", "publ"],
+    "mean": ["人々"],
+    "url": "http://gogengo.me/roots/392"
+  },
+  {
+    "spel": ["port"],
+    "mean": ["運ぶ", "港"],
+    "url": "http://gogengo.me/roots/159"
+  },
+  {
+    "spel": ["pos", "posit", "pose", "pone"],
+    "mean": ["置く"],
+    "url": "http://gogengo.me/roots/341"
+  },
+  {
+    "spel": ["posi", "pot"],
+    "mean": ["飲む"],
+    "url": "http://gogengo.me/roots/510"
+  },
+  {
+    "spel": ["posse", "pot"],
+    "mean": ["できる"],
+    "url": "http://gogengo.me/roots/463"
+  },
+  {
+    "spel": ["post-"],
+    "mean": ["後に"],
+    "url": "http://gogengo.me/roots/367"
+  },
+  {
+    "spel": ["potamo", "potamos"],
+    "mean": ["川"],
+    "url": "http://gogengo.me/roots/540"
+  },
+  {
+    "spel": ["pre-", "pro-", "pur-"],
+    "mean": ["前に", "前もって", "代わりの"],
+    "url": "http://gogengo.me/roots/49"
+  },
+  {
+    "spel": ["press"],
+    "mean": ["押す"],
+    "url": "http://gogengo.me/roots/323"
+  },
+  {
+    "spel": ["prou"],
+    "mean": ["利益"],
+    "url": "http://gogengo.me/roots/468"
+  },
+  {
+    "spel": ["psycho-"],
+    "mean": ["精神", "心理"],
+    "url": "http://gogengo.me/roots/212"
+  },
+  {
+    "spel": ["pul", "ple", "ply"],
+    "mean": ["満たす"],
+    "url": "http://gogengo.me/roots/453"
+  },
+  {
+    "spel": ["puta"],
+    "mean": ["数える"],
+    "url": "http://gogengo.me/roots/518"
+  },
+  {
+    "spel": ["quali"],
+    "mean": ["質"],
+    "url": "http://gogengo.me/roots/487"
+  },
+  {
+    "spel": ["quire", "quis", "quest"],
+    "mean": ["探し求める"],
+    "url": "http://gogengo.me/roots/381"
+  },
+  {
+    "spel": ["re"],
+    "mean": ["もの"],
+    "url": "http://gogengo.me/roots/394"
+  },
+  {
+    "spel": ["re-"],
+    "mean": ["後ろへ", "再び", "反対に", "強意"],
+    "url": "http://gogengo.me/roots/44"
+  },
+  {
+    "spel": ["rect", "ress", "reg"],
+    "mean": ["導く", "まっすぐな"],
+    "url": "http://gogengo.me/roots/498"
+  },
+  {
+    "spel": ["retro-"],
+    "mean": ["後ろ"],
+    "url": "http://gogengo.me/roots/214"
+  },
+  {
+    "spel": ["roll", "ret"],
+    "mean": ["回転する", "名簿"],
+    "url": "http://gogengo.me/roots/101"
+  },
+  {
+    "spel": ["rub"],
+    "mean": ["赤"],
+    "url": "http://gogengo.me/roots/429"
+  },
+  {
+    "spel": ["sacr"],
+    "mean": ["神聖な"],
+    "url": "http://gogengo.me/roots/488"
+  },
+  {
+    "spel": ["sal"],
+    "mean": ["塩"],
+    "url": "http://gogengo.me/roots/449"
+  },
+  {
+    "spel": ["satis"],
+    "mean": ["十分な"],
+    "url": "http://gogengo.me/roots/420"
+  },
+  {
+    "spel": ["sci"],
+    "mean": ["知る"],
+    "url": "http://gogengo.me/roots/408"
+  },
+  {
+    "spel": ["scoru"],
+    "mean": ["20 の集まり", "印"],
+    "url": "http://gogengo.me/roots/526"
+  },
+  {
+    "spel": ["scribe"],
+    "mean": ["書く"],
+    "url": "http://gogengo.me/roots/38"
+  },
+  {
+    "spel": ["se", "selu", "sui"],
+    "mean": ["それ自身"],
+    "url": "http://gogengo.me/roots/527"
+  },
+  {
+    "spel": ["se-"],
+    "mean": ["離れて"],
+    "url": "http://gogengo.me/roots/299"
+  },
+  {
+    "spel": ["sect"],
+    "mean": ["切る"],
+    "url": "http://gogengo.me/roots/260"
+  },
+  {
+    "spel": ["see"],
+    "mean": ["見る"],
+    "url": "http://gogengo.me/roots/148"
+  },
+  {
+    "spel": ["semi-"],
+    "mean": ["半分の"],
+    "url": "http://gogengo.me/roots/267"
+  },
+  {
+    "spel": ["sensus"],
+    "mean": ["感じる", "意味"],
+    "url": "http://gogengo.me/roots/131"
+  },
+  {
+    "spel": ["serv"],
+    "mean": ["仕える"],
+    "url": "http://gogengo.me/roots/474"
+  },
+  {
+    "spel": ["serv"],
+    "mean": ["見守る"],
+    "url": "http://gogengo.me/roots/475"
+  },
+  {
+    "spel": ["set", "sed"],
+    "mean": ["座る", "置く"],
+    "url": "http://gogengo.me/roots/284"
+  },
+  {
+    "spel": ["sidus", "siren"],
+    "mean": ["星"],
+    "url": "http://gogengo.me/roots/530"
+  },
+  {
+    "spel": ["sign"],
+    "mean": ["しるし"],
+    "url": "http://gogengo.me/roots/441"
+  },
+  {
+    "spel": ["sim-", "sin-"],
+    "mean": ["1 つ"],
+    "url": "http://gogengo.me/roots/512"
+  },
+  {
+    "spel": ["simil", "simul"],
+    "mean": ["似ている"],
+    "url": "http://gogengo.me/roots/500"
+  },
+  {
+    "spel": ["sist", "st"],
+    "mean": ["立つ"],
+    "url": "http://gogengo.me/roots/161"
+  },
+  {
+    "spel": ["skep"],
+    "mean": ["切る", "形"],
+    "url": "http://gogengo.me/roots/523"
+  },
+  {
+    "spel": ["sode"],
+    "mean": ["入る"],
+    "url": "http://gogengo.me/roots/374"
+  },
+  {
+    "spel": ["soft"],
+    "mean": ["やさしい", "ゆるやかな"],
+    "url": "http://gogengo.me/roots/516"
+  },
+  {
+    "spel": ["sophy", "sophi"],
+    "mean": ["知", "賢さ"],
+    "url": "http://gogengo.me/roots/326"
+  },
+  {
+    "spel": ["space", "spatium"],
+    "mean": ["距離", "宇宙"],
+    "url": "http://gogengo.me/roots/298"
+  },
+  {
+    "spel": ["spect"],
+    "mean": ["見る"],
+    "url": "http://gogengo.me/roots/188"
+  },
+  {
+    "spel": ["spectro-"],
+    "mean": ["分光"],
+    "url": "http://gogengo.me/roots/215"
+  },
+  {
+    "spel": ["spell", "spel"],
+    "mean": ["暗唱する", "つづる"],
+    "url": "http://gogengo.me/roots/180"
+  },
+  {
+    "spel": ["sphaira"],
+    "mean": ["球"],
+    "url": "http://gogengo.me/roots/266"
+  },
+  {
+    "spel": ["stetho-"],
+    "mean": ["胸の"],
+    "url": "http://gogengo.me/roots/216"
+  },
+  {
+    "spel": ["sub-", "suf-", "sup-", "sus-", "suc-"],
+    "mean": ["下に", "代理"],
+    "url": "http://gogengo.me/roots/45"
+  },
+  {
+    "spel": ["sucre", "saccharon"],
+    "mean": ["砂糖", "砂利"],
+    "url": "http://gogengo.me/roots/529"
+  },
+  {
+    "spel": ["sum"],
+    "mean": ["一番高い"],
+    "url": "http://gogengo.me/roots/460"
+  },
+  {
+    "spel": ["sur-"],
+    "mean": ["上の", "超えて"],
+    "url": "http://gogengo.me/roots/54"
+  },
+  {
+    "spel": ["sure"],
+    "mean": ["確実な"],
+    "url": "http://gogengo.me/roots/103"
+  },
+  {
+    "spel": ["sym-", "syn-"],
+    "mean": ["一緒の"],
+    "url": "http://gogengo.me/roots/217"
+  },
+  {
+    "spel": ["tail"],
+    "mean": ["切る"],
+    "url": "http://gogengo.me/roots/324"
+  },
+  {
+    "spel": ["tain", "tinent", "tinue"],
+    "mean": ["つかんで離さない"],
+    "url": "http://gogengo.me/roots/336"
+  },
+  {
+    "spel": ["talk", "talo"],
+    "mean": ["詳しく述べる"],
+    "url": "http://gogengo.me/roots/82"
+  },
+  {
+    "spel": ["tange"],
+    "mean": ["触れる"],
+    "url": "http://gogengo.me/roots/422"
+  },
+  {
+    "spel": ["techno-"],
+    "mean": ["技術の"],
+    "url": "http://gogengo.me/roots/296"
+  },
+  {
+    "spel": ["tect"],
+    "mean": ["覆う"],
+    "url": "http://gogengo.me/roots/380"
+  },
+  {
+    "spel": ["tele-"],
+    "mean": ["遠く"],
+    "url": "http://gogengo.me/roots/139"
+  },
+  {
+    "spel": ["tempt", "tent"],
+    "mean": ["試す"],
+    "url": "http://gogengo.me/roots/502"
+  },
+  {
+    "spel": ["tend", "tens", "tent"],
+    "mean": ["伸ばす"],
+    "url": "http://gogengo.me/roots/344"
+  },
+  {
+    "spel": ["term", "terminus"],
+    "mean": ["終わり"],
+    "url": "http://gogengo.me/roots/451"
+  },
+  {
+    "spel": ["tetra-"],
+    "mean": ["4 つの"],
+    "url": "http://gogengo.me/roots/276"
+  },
+  {
+    "spel": ["the", "theo"],
+    "mean": ["神"],
+    "url": "http://gogengo.me/roots/404"
+  },
+  {
+    "spel": ["therapy"],
+    "mean": ["治療"],
+    "url": "http://gogengo.me/roots/122"
+  },
+  {
+    "spel": ["thesis"],
+    "mean": ["置く"],
+    "url": "http://gogengo.me/roots/138"
+  },
+  {
+    "spel": ["time"],
+    "mean": ["時"],
+    "url": "http://gogengo.me/roots/150"
+  },
+  {
+    "spel": ["tom"],
+    "mean": ["切る"],
+    "url": "http://gogengo.me/roots/416"
+  },
+  {
+    "spel": ["tone"],
+    "mean": ["音", "調子"],
+    "url": "http://gogengo.me/roots/136"
+  },
+  {
+    "spel": ["topo"],
+    "mean": ["場所", "位置"],
+    "url": "http://gogengo.me/roots/447"
+  },
+  {
+    "spel": ["tract"],
+    "mean": ["引っぱる"],
+    "url": "http://gogengo.me/roots/322"
+  },
+  {
+    "spel": ["trans-", "tra-"],
+    "mean": ["向こう側へ", "変換"],
+    "url": "http://gogengo.me/roots/157"
+  },
+  {
+    "spel": ["tri-"],
+    "mean": ["3 つの"],
+    "url": "http://gogengo.me/roots/46"
+  },
+  {
+    "spel": ["un-"],
+    "mean": ["否定"],
+    "url": "http://gogengo.me/roots/141"
+  },
+  {
+    "spel": ["unda"],
+    "mean": ["波"],
+    "url": "http://gogengo.me/roots/483"
+  },
+  {
+    "spel": ["under"],
+    "mean": ["下に"],
+    "url": "http://gogengo.me/roots/481"
+  },
+  {
+    "spel": ["uni"],
+    "mean": ["ひとつにする"],
+    "url": "http://gogengo.me/roots/201"
+  },
+  {
+    "spel": ["uni-"],
+    "mean": ["1 つの"],
+    "url": "http://gogengo.me/roots/143"
+  },
+  {
+    "spel": ["use"],
+    "mean": ["使う"],
+    "url": "http://gogengo.me/roots/156"
+  },
+  {
+    "spel": ["vac"],
+    "mean": ["からっぽ"],
+    "url": "http://gogengo.me/roots/398"
+  },
+  {
+    "spel": ["vade"],
+    "mean": ["進んで行く"],
+    "url": "http://gogengo.me/roots/317"
+  },
+  {
+    "spel": ["val"],
+    "mean": ["価値", "強い"],
+    "url": "http://gogengo.me/roots/497"
+  },
+  {
+    "spel": ["vene"],
+    "mean": ["来る"],
+    "url": "http://gogengo.me/roots/464"
+  },
+  {
+    "spel": ["verb"],
+    "mean": ["言語", "動詞"],
+    "url": "http://gogengo.me/roots/133"
+  },
+  {
+    "spel": ["vert", "verse"],
+    "mean": ["向きを変える", "形や性質を変える"],
+    "url": "http://gogengo.me/roots/240"
+  },
+  {
+    "spel": ["vid", "vis"],
+    "mean": ["分ける"],
+    "url": "http://gogengo.me/roots/459"
+  },
+  {
+    "spel": ["view", "vis"],
+    "mean": ["見る"],
+    "url": "http://gogengo.me/roots/151"
+  },
+  {
+    "spel": ["vince"],
+    "mean": ["征服する"],
+    "url": "http://gogengo.me/roots/476"
+  },
+  {
+    "spel": ["vive", "viv", "vit"],
+    "mean": ["生きる"],
+    "url": "http://gogengo.me/roots/56"
+  },
+  {
+    "spel": ["voc", "vok"],
+    "mean": ["呼ぶ", "声"],
+    "url": "http://gogengo.me/roots/469"
+  },
+  {
+    "spel": ["volve", "volt"],
+    "mean": ["回転する"],
+    "url": "http://gogengo.me/roots/36"
+  },
+  {
+    "spel": ["ware"],
+    "mean": ["知覚する", "気を払う"],
+    "url": "http://gogengo.me/roots/515"
+  },
+  {
+    "spel": ["way", "weg", "wegh", "via"],
+    "mean": ["道", "行く"],
+    "url": "http://gogengo.me/roots/83"
+  },
+  {
+    "spel": ["weik", "week"],
+    "mean": ["巻き付ける", "週"],
+    "url": "http://gogengo.me/roots/278"
+  },
+  {
+    "spel": ["well"],
+    "mean": ["よい"],
+    "url": "http://gogengo.me/roots/387"
+  },
+  {
+    "spel": ["word"],
+    "mean": ["単語"],
+    "url": "http://gogengo.me/roots/436"
+  },
+  {
+    "spel": ["work"],
+    "mean": ["はたらく"],
+    "url": "http://gogengo.me/roots/84"
+  },
+  {
+    "spel": ["xeno-"],
+    "mean": ["外国人", "未知の"],
+    "url": "http://gogengo.me/roots/223"
+  },
+  {
+    "spel": ["yer"],
+    "mean": ["年"],
+    "url": "http://gogengo.me/roots/227"
+  },
+  {
+    "spel": ["yester-"],
+    "mean": ["すぐ前の"],
+    "url": "http://gogengo.me/roots/224"
+  }
+]
